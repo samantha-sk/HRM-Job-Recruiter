@@ -44,6 +44,5 @@ The **HRM Job Recruiter Portal** is designed to simplify the recruitment process
 * Resume upload and parsing
 * Email / Telegram notifications
 
-...
+
 Cheers✨
-...
