@@ -2,7 +2,6 @@
 
 A web-based Human Resource Management (HRM) recruitment portal that helps recruiters manage job postings, applicants and neccessary records & data efficiently.
 
----
 
 ## Overview 📌
 
@@ -13,7 +12,6 @@ The **HRM Job Recruiter Portal** is designed to simplify the recruitment process
 * Track recruitment progress
 * Maintain applicant records
 
----
 
 ## Features 👾
 
@@ -22,7 +20,6 @@ The **HRM Job Recruiter Portal** is designed to simplify the recruitment process
 * Track recruitment status (scheduled for interview / on-hold / selected / rejected)
 * Schedule interviews
 
----
 
 ## Technologies Used 🛠️
 
@@ -32,7 +29,6 @@ The **HRM Job Recruiter Portal** is designed to simplify the recruitment process
 * JavaScript
 * HTML/CSS
 
----
 
 ## So what's in it for you? 🤺
 
@@ -40,8 +36,7 @@ The **HRM Job Recruiter Portal** is designed to simplify the recruitment process
 * A full-stack practice project
 * A demonstration project for HRM systems
 * A portfolio project
-
----
+  
 
 ## Future Improvements 🚀
 
@@ -49,4 +44,6 @@ The **HRM Job Recruiter Portal** is designed to simplify the recruitment process
 * Resume upload and parsing
 * Email / Telegram notifications
 
+...
 Cheers✨
+...
